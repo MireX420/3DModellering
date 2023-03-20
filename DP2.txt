@@ -1,0 +1,61 @@
+produktsjanger = høyttalerprodukt, stemme-assistent
+
+wearable interface
+tangible interface
+voice interface
+ambient interface
+
+DP1:
+Produktsjanger og type grensesnitt:
+Vi har valgt å utvikle en høyttaler 
+som er festet til en caps, som inkluderer 
+en stemmeassistent, lik Amazon Echo. Grensesnittet 
+vil være basert på enkle talekommandoer og vil være 
+enkelt å bruke og bære med seg.
+
+Prosjektmål:
+Målet vårt er å utvikle en høyttaler som gir brukere 
+muligheten til å styre musikk, få nyheter, værmeldinger
+ og annen relevant informasjon ved hjelp av en enkel stemmekommando.
+ Vi ønsker også å gjøre det enklere for brukere å ha tilgang
+ til disse funksjonene ved å ha dem på seg hele tiden, og 
+ikke trenge å bære på separate enheter.
+
+Produktfunksjon og brukskontekst:
+Høyttaleren vil ha funksjoner som musikkavspilling,
+ tilgang til nyheter og værmeldinger, taleassistent
+ og andre relevante funksjoner. Den vil være ideell for personer 
+som ønsker å ha tilgang til informasjon og underholdning uten 
+å måtte bruke hendene eller se på en skjerm. Produktet vil
+ være spesielt egnet for personer som trener utendørs, eller 
+som er på farten og ønsker å ha enkel tilgang til musikk og informasjon.
+
+DP2:
+Prototype og undersøkelsesaspekter:
+Vi har valgt å lage en fungerende prototype som
+ fokuserer på talekontroll og lydkvalitet. Vi vil
+ undersøke brukervennligheten og funksjonaliteten i 
+høyttaleren, og også teste lydkvaliteten og om det
+ er mulig å ha god lyd gjennom en høyttaler som er 
+festet til en caps. Vi vil også utføre brukertesting for
+ å undersøke brukeropplevelsen og identifisere eventuelle 
+problemer med talekontrollen og lydkvaliteten.
+
+Plan for prototyp nummer to og veien videre i prosjekt:
+Basert på tilbakemeldingene fra den første 
+prototypen vil vi utvikle en mer avansert prototype 
+som inkluderer flere funksjoner og forbedret lydkvalitet.
+ Vi vil også undersøke mulighetene for å integrere produktet
+ med smarte enheter, for eksempel smartklokker og telefoner.
+ Målet er å lage en høyttaler som gir brukere muligheten til
+ å ha enkel tilgang til musikk og informasjon, samtidig som de
+ kan ha hendene fri til andre aktiviteter.
+
+Low-fidelity (Lo-Fi) prototype:
+A low-fidelity prototype is a basic version of the product, which may be created using paper, sketches, or wireframes. Lo-Fi prototypes are quick and easy to create and are useful for testing fundamental concepts and user flows. They are typically low cost and can be iterated quickly based on user feedback. However, they may not provide a realistic representation of the final product's appearance or functionality.
+
+Mid-fidelity (Mid-Fi) prototype:
+A mid-fidelity prototype is more detailed than a low-fidelity prototype, but less so than a high-fidelity prototype. Mid-Fi prototypes may be created using digital tools like mockups, clickable wireframes, or simple interactive interfaces. They allow for more realistic representation of the product's appearance and functionality, while still being relatively easy and quick to iterate based on user feedback.
+
+High-fidelity (Hi-Fi) prototype:
+A high-fidelity prototype is a fully functional, interactive version of the product that closely resembles the final product. Hi-Fi prototypes may be created using software development tools and may include animations, realistic visuals, and complex interactions. They are typically more time-consuming and expensive to develop than low- or mid-fidelity prototypes, but they provide the most accurate representation of the final product's appearance and functionality.
